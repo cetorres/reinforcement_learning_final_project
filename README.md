@@ -27,16 +27,18 @@ Product Recommendation in Online Advertising with Reinforcement Learning
 
 - Deep Q-Network
 
-![DQN](https://github.com/cetorres/reinforcement_learning_final_project/assets/533661/40dbc901-7a08-4d99-ac15-4ce7e1051360)
+![dqn](https://github.com/cetorres/reinforcement_learning_final_project/assets/533661/e7eeccd3-4ed5-41e3-a974-39cbbe0ec710)
 
 - The RecoGym environment represented as a Markov chain of the organic and bandit user sessions. Adapted from RecoGym.
 
-![RecoGyn_Markov_Chain](https://github.com/cetorres/reinforcement_learning_final_project/assets/533661/59be643a-3233-4c80-9dcb-e3978073eaba)
+![markov_chain_animated](https://github.com/cetorres/reinforcement_learning_final_project/assets/533661/7d1150a6-5ed0-476e-9dc7-f6ca086f2c7d)
 
 - System architecture.
 
-![final_system_architecture](https://github.com/cetorres/reinforcement_learning_final_project/assets/533661/5edaf3b2-2c2c-4eff-8767-bff34ed10cfc)
+![system_architecture_animated](https://github.com/cetorres/reinforcement_learning_final_project/assets/533661/6f4fd5e5-43ee-404f-90ea-395af90bc73c)
+
 
 - DQN internal architecture. Adapted from Nair et al. (2015).
 
-![DQN_Architecture_04](https://github.com/cetorres/reinforcement_learning_final_project/assets/533661/481acc16-f6fa-400c-8bca-132351e2a93e)
+![dqn_architecture_animated](https://github.com/cetorres/reinforcement_learning_final_project/assets/533661/2237f29e-8034-433e-8548-d668dfed13ec)
+
