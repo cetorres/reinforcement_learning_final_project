@@ -40,5 +40,5 @@ Product Recommendation in Online Advertising with Reinforcement Learning
 
 - DQN internal architecture. Adapted from Nair et al. (2015).
 
-![dqn_architecture_animated](https://github.com/cetorres/reinforcement_learning_final_project/assets/533661/2237f29e-8034-433e-8548-d668dfed13ec)
+![dqn_architecture_animated](https://github.com/cetorres/reinforcement_learning_final_project/assets/533661/1982ebf3-b002-4700-8cc2-24674a8c1f16)
 
