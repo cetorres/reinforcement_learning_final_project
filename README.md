@@ -23,6 +23,8 @@ Product Recommendation in Online Advertising with Reinforcement Learning
 
 [Carlos_Torres_Final_Presentation.pptx](Carlos_Torres_Final_Presentation.pptx)
 
+https://github.com/cetorres/reinforcement_learning_final_project/assets/533661/210a087c-005e-4690-9e28-ca4ec2ebd558
+
 ## Figures
 
 - Deep Q-Network
